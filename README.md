@@ -1,5 +1,3 @@
-Here are clean, corrected notes based on your lab files — I fixed a couple of small errors from the comments in your code as I went.
-
 ## PHP Basics Notes
 
 ### 1. Comments
