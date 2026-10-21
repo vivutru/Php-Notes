@@ -1,0 +1,10 @@
+[20-Oct-2026 12:28:11 UTC] PHP Warning:  Invalid CSV record 6 in /home/claude/php_lab_12_14/programme_summary.php on line 53
+[20-Oct-2026 12:28:11 UTC] The CSV header is missing or incorrect.
+[20-Oct-2026 12:28:11 UTC] PHP Warning:  fopen(/home/claude/php_lab_12_14/data/nofile.csv): Failed to open stream: No such file or directory in /home/claude/php_lab_12_14/programme_summary.php on line 27
+[20-Oct-2026 12:28:11 UTC] Cannot open the student CSV.
+[20-Oct-2026 12:28:24 UTC] Audit rejected record 7: Balance is negative (-500)
+[20-Oct-2026 12:28:24 UTC] Audit rejected record 9: FullName is missing
+[20-Oct-2026 12:28:24 UTC] Audit rejected record 17: Duplicate StudentID 104 (first accepted earlier)
+[20-Oct-2026 12:28:24 UTC] Audit rejected record 7: Balance is negative (-500)
+[20-Oct-2026 12:28:24 UTC] Audit rejected record 9: FullName is missing
+[20-Oct-2026 12:28:24 UTC] Audit rejected record 17: Duplicate StudentID 104 (first accepted earlier)

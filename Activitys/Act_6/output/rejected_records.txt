@@ -1,0 +1,3 @@
+Record 7: Balance is negative (-500)
+Record 9: FullName is missing
+Record 17: Duplicate StudentID 104 (first accepted earlier)

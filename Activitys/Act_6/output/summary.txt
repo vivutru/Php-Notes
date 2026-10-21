@@ -1,0 +1,3 @@
+Valid students: 15
+Rejected records: 0
+Total balance: JMD 138,500.00
